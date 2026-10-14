@@ -22,6 +22,23 @@ PARAM_TO_TAG = {
 }
 
 
+def color_group(value: str) -> str:
+    normalized = value.lower().replace("ё", "е")
+    if any(token in normalized for token in ("светло-сер", "бел", "молоч", "слонов")):
+        return "light"
+    if "сер" in normalized:
+        return "grey"
+    if any(token in normalized for token in ("беж", "корич")):
+        return "beige"
+    if any(token in normalized for token in ("син", "бирюз", "мят")):
+        return "blue"
+    if any(token in normalized for token in ("роз", "террак", "винн")):
+        return "pink"
+    if any(token in normalized for token in ("черн", "черн", "темно", "темно")):
+        return "dark"
+    return "other"
+
+
 def fetch_xml(url: str, timeout: int, retries: int) -> bytes:
     last_error = None
     for attempt in range(1, retries + 1):
@@ -66,6 +83,7 @@ def transform(xml_data: bytes) -> tuple[ET.ElementTree, int]:
         }
         for param_name, tag in PARAM_TO_TAG.items():
             set_text(offer, tag, params.get(param_name, ""))
+        set_text(offer, "color_group", color_group(params.get("Цвет", "")))
         set_text(offer, "available_value", offer.get("available", ""))
 
         # RQChat merges repeated <param> nodes into one field. Remove them from
