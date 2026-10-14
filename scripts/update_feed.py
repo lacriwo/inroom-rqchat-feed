@@ -67,6 +67,11 @@ def transform(xml_data: bytes) -> tuple[ET.ElementTree, int]:
             set_text(offer, tag, params.get(param_name, ""))
         set_text(offer, "available_value", offer.get("available", ""))
 
+        # RQChat merges repeated <param> nodes into one field. Remove them from
+        # the published feed after copying the required values to flat tags.
+        for param in offer.findall("param"):
+            offer.remove(param)
+
     return ET.ElementTree(root), len(offers)
 
 
