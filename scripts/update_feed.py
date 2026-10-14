@@ -55,6 +55,7 @@ def transform(xml_data: bytes) -> tuple[ET.ElementTree, int]:
     offers = root.findall(".//offers/offer")
 
     for offer in offers:
+        set_text(offer, "offer_id", offer.get("id", ""))
         set_text(offer, "url", TARGET_URL)
         category_id = (offer.findtext("categoryId") or "").strip()
         set_text(offer, "model", categories.get(category_id, ""))
