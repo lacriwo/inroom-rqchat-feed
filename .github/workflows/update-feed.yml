@@ -34,11 +34,20 @@ jobs:
           MAX_RETRIES: "3"
         run: python scripts/update_feed.py
 
+      - name: Generate gray XML feed
+        env:
+          SOURCE_FEED_URL: https://in-room.ru/marketplace/4675585.xml
+          TARGET_URL: https://in-room.rqch.ru/
+          GRAY_OUTPUT_FILE: docs/inroom-gray.xml
+          REQUEST_TIMEOUT: "120"
+          MAX_RETRIES: "3"
+        run: python scripts/update_gray_feed.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/inroom-rqchat.xml
+          git add docs/inroom-rqchat.xml docs/inroom-gray.xml
           if git diff --staged --quiet; then
             echo "No changes"
           else
