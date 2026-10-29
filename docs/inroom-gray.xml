@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-28T08:18:34+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="31425258" parentId="31283128">Эллипс</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425260" parentId="31283128">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425270" parentId="31283128">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119840" parentId="31026311">Лайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425327" parentId="31283128">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31119844" parentId="31026311">Мидл</category><category id="31425349" parentId="31283128">Мидл</category><category id="42071937" parentId="31026311">Медиум</category><category id="42072193" parentId="31283128">Медиум</category><category id="31119846" parentId="31026311">Изи</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="31119847" parentId="31026311">Бокс</category><category id="31425367" parentId="31283128">Бокс</category><category id="57472993" parentId="31026311">Флюид</category></categories><offers>
+<yml_catalog date="2026-10-29T08:29:15+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="31425258" parentId="31283128">Эллипс</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425260" parentId="31283128">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425270" parentId="31283128">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119840" parentId="31026311">Лайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425327" parentId="31283128">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31119844" parentId="31026311">Мидл</category><category id="31425349" parentId="31283128">Мидл</category><category id="42071937" parentId="31026311">Медиум</category><category id="42072193" parentId="31283128">Медиум</category><category id="31119846" parentId="31026311">Изи</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="31119847" parentId="31026311">Бокс</category><category id="31425367" parentId="31283128">Бокс</category><category id="57472993" parentId="31026311">Флюид</category></categories><offers>
       <offer available="true" id="1247643393" group_id="1248131713">
         <url>https://in-room.rqch.ru/</url>
         <price>29308.0</price>
@@ -102,6 +102,26 @@
         <count>100</count>
 
       <offer_id>1468275201</offer_id><model>Медиум</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1243082369" group_id="1244778497">
+        <url>https://in-room.rqch.ru/</url>
+        <price>28458.0</price>
+        <oldprice>40176.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425328</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2177/1769441409/6428360003.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Квадро, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Квадро» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1243082369</offer_id><model>Квадро</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="2339020985" group_id="1922551169">
         <url>https://in-room.rqch.ru/</url>
         <price>32708.0</price>
@@ -223,46 +243,6 @@
         <count>100</count>
 
       <offer_id>1247233793</offer_id><model>Прайм</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1244439809" group_id="1245579649">
-        <url>https://in-room.rqch.ru/</url>
-        <price>28458.0</price>
-        <oldprice>40176.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425349</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6145/1771427841/Grey.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Мидл, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Мидл» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1244439809</offer_id><model>Мидл</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1243082369" group_id="1244778497">
-        <url>https://in-room.rqch.ru/</url>
-        <price>28458.0</price>
-        <oldprice>40176.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425328</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2177/1769441409/6428360003.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Квадро, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Квадро» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1243082369</offer_id><model>Квадро</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="1049351041" group_id="1149055489">
         <url>https://in-room.rqch.ru/</url>
         <price>22933.0</price>
@@ -303,4 +283,24 @@
         <count>100</count>
 
       <offer_id>1469236353</offer_id><model>Бокс</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1244439809" group_id="1245579649">
+        <url>https://in-room.rqch.ru/</url>
+        <price>28458.0</price>
+        <oldprice>40176.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425349</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6145/1771427841/Grey.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Мидл, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Мидл» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1244439809</offer_id><model>Мидл</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       </offers><collections /></shop></yml_catalog>
