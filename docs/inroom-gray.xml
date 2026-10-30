@@ -1,107 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-29T08:29:15+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="31425258" parentId="31283128">Эллипс</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425260" parentId="31283128">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425270" parentId="31283128">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119840" parentId="31026311">Лайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425327" parentId="31283128">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31119844" parentId="31026311">Мидл</category><category id="31425349" parentId="31283128">Мидл</category><category id="42071937" parentId="31026311">Медиум</category><category id="42072193" parentId="31283128">Медиум</category><category id="31119846" parentId="31026311">Изи</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="31119847" parentId="31026311">Бокс</category><category id="31425367" parentId="31283128">Бокс</category><category id="57472993" parentId="31026311">Флюид</category></categories><offers>
-      <offer available="true" id="1247643393" group_id="1248131713">
-        <url>https://in-room.rqch.ru/</url>
-        <price>29308.0</price>
-        <oldprice>41376.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425282</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3545/2282163673/%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Скайлайн, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Скайлайн» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1247643393</offer_id><model>Скайлайн</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1562738433" group_id="1419164673">
-        <url>https://in-room.rqch.ru/</url>
-        <price>36958.0</price>
-        <oldprice>67960.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31119835</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2631/2148207175/8.001.png</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2642/2148207186/%D1%81%D0%B8%D0%BD%D0%B8%D0%B9_%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Кровать с закругленным изголовьем «Эллипс», 140×200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Мягкая кровать «Эллипс» 140×200 с закруглённым изголовьем и подъёмным механизмом. Выбор высоты изголовья (85 или 100 см), количества ящиков и наличие ножек. Ортопедическое основание, велюровая обивка, массив сосны. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1562738433</offer_id><model>Эллипс</model><color>синий+тёмно-серый</color><width>140</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1309035905" group_id="1280446977">
-        <url>https://in-room.rqch.ru/</url>
-        <price>32708.0</price>
-        <oldprice>51960.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>32290433</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/7041/1868544897/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2945/1868499841/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Абстракт Элит, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Мягкая кровать «Абстракт Элит» 120×200 с подъёмным механизмом и ящиком для хранения. Велюровая обивка, ортопедическое основание, массив сосны. Выбор цвета и комплектации. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1309035905</offer_id><model>Абстракт Элит</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="820457901" group_id="488280727">
-        <url>https://in-room.rqch.ru/</url>
-        <price>25908.0</price>
-        <oldprice>45980.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31119839</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6660/996932100/6373432485.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Оптима Лайт, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Оптима Лайт» 120×200 с подъемным механизмом и ящиком для хранения. Ортопедическое основание, антивандальный велюр, прочная конструкция. Доставка по РФ, гарантия.</description>
-        <count>100</count>
-
-      <offer_id>820457901</offer_id><model>Оптима Лайт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1468275201" group_id="1359121153">
-        <url>https://in-room.rqch.ru/</url>
-        <price>31008.0</price>
-        <oldprice>71960.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>42071937</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6657/2101762561/grey.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Медиум, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Медиум» 120×200 с подъёмным механизмом и ящиком для хранения. Велюровая обивка, ортопедическое основание, массив сосны. Выбор цвета и количества ящиков. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1468275201</offer_id><model>Медиум</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+<yml_catalog date="2026-10-30T08:29:06+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="57472993" parentId="31026311">Флюид</category><category id="31425258" parentId="31283128">Эллипс</category><category id="31425260" parentId="31283128">Дельта</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31425270" parentId="31283128">Оптима</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31119840" parentId="31026311">Лайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425327" parentId="31283128">Прайм</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31425349" parentId="31283128">Мидл</category><category id="31119844" parentId="31026311">Мидл</category><category id="42072193" parentId="31283128">Медиум</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="42071937" parentId="31026311">Медиум</category><category id="31425367" parentId="31283128">Бокс</category><category id="31119846" parentId="31026311">Изи</category><category id="31119847" parentId="31026311">Бокс</category></categories><offers>
       <offer available="true" id="1243082369" group_id="1244778497">
         <url>https://in-room.rqch.ru/</url>
         <price>28458.0</price>
@@ -122,46 +20,6 @@
         <count>100</count>
 
       <offer_id>1243082369</offer_id><model>Квадро</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2339020985" group_id="1922551169">
-        <url>https://in-room.rqch.ru/</url>
-        <price>32708.0</price>
-        <oldprice>69960.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>57472993</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/105/3310796905/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B8%CC%86.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Флюид, 160х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Дизайнерская кровать InRoom Флюид 160×200 с волнообразным изголовьем и подъёмным механизмом. Ящик 150 л, массив сосны, велюр, нагрузка до 120 кг. Гарантия 12 мес.</description>
-        <count>100</count>
-
-      <offer_id>2339020985</offer_id><model>Флюид</model><color>темно-серый</color><width>160</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1051182593" group_id="1150278401">
-        <url>https://in-room.rqch.ru/</url>
-        <price>30158.0</price>
-        <oldprice>62960.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425260</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/7681/1450507777/7250735922.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Дельта, 140х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Дельта» 140×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1051182593</offer_id><model>Дельта</model><color>темно-серый</color><width>140</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="816385328" group_id="488280745">
         <url>https://in-room.rqch.ru/</url>
         <price>25908.0</price>
@@ -183,6 +41,66 @@
         <count>100</count>
 
       <offer_id>816385328</offer_id><model>Абстракт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="820457901" group_id="488280727">
+        <url>https://in-room.rqch.ru/</url>
+        <price>25908.0</price>
+        <oldprice>45980.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31119839</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6660/996932100/6373432485.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Оптима Лайт, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Оптима Лайт» 120×200 с подъемным механизмом и ящиком для хранения. Ортопедическое основание, антивандальный велюр, прочная конструкция. Доставка по РФ, гарантия.</description>
+        <count>100</count>
+
+      <offer_id>820457901</offer_id><model>Оптима Лайт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1049351041" group_id="1149055489">
+        <url>https://in-room.rqch.ru/</url>
+        <price>22933.0</price>
+        <oldprice>32376.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425358</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1409/1444341121/7301321999.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Изи, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Дизайнерская кровать InRoom Изи 120×200 без подъёмного механизма и ящика. Ровный настил из ДСП, массив сосны, антивандальный велюр. Нагрузка до 120 кг, гарантия 12 мес.</description>
+        <count>100</count>
+
+      <offer_id>1049351041</offer_id><model>Изи</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1051182593" group_id="1150278401">
+        <url>https://in-room.rqch.ru/</url>
+        <price>30158.0</price>
+        <oldprice>62960.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425260</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/7681/1450507777/7250735922.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Дельта, 140х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Дельта» 140×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1051182593</offer_id><model>Дельта</model><color>темно-серый</color><width>140</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="1069890945" group_id="1162303105">
         <url>https://in-room.rqch.ru/</url>
         <price>25908.0</price>
@@ -223,66 +141,6 @@
         <count>100</count>
 
       <offer_id>1070556673</offer_id><model>Лайн</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1247233793" group_id="1247860993">
-        <url>https://in-room.rqch.ru/</url>
-        <price>29308.0</price>
-        <oldprice>41376.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425327</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/769/1775371009/7301717599.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Прайм, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Прайм» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
-        <count>100</count>
-
-      <offer_id>1247233793</offer_id><model>Прайм</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1049351041" group_id="1149055489">
-        <url>https://in-room.rqch.ru/</url>
-        <price>22933.0</price>
-        <oldprice>32376.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425358</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1409/1444341121/7301321999.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Изи, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Дизайнерская кровать InRoom Изи 120×200 без подъёмного механизма и ящика. Ровный настил из ДСП, массив сосны, антивандальный велюр. Нагрузка до 120 кг, гарантия 12 мес.</description>
-        <count>100</count>
-
-      <offer_id>1049351041</offer_id><model>Изи</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="1469236353" group_id="1359782273">
-        <url>https://in-room.rqch.ru/</url>
-        <price>19108.0</price>
-        <oldprice>26976.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31425367</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1409/2282071425/%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с настилом Бокс, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Дизайнерская кровать-бокс InRoom Бокс 120×200 без изголовья, подъёмного механизма и ящика. Ровный настил из ДСП, массив сосны, велюр. Нагрузка до 120 кг, гарантия 12 мес.</description>
-        <count>100</count>
-
-      <offer_id>1469236353</offer_id><model>Бокс</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="1244439809" group_id="1245579649">
         <url>https://in-room.rqch.ru/</url>
         <price>28458.0</price>
@@ -303,4 +161,146 @@
         <count>100</count>
 
       <offer_id>1244439809</offer_id><model>Мидл</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1247233793" group_id="1247860993">
+        <url>https://in-room.rqch.ru/</url>
+        <price>29308.0</price>
+        <oldprice>41376.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425327</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/769/1775371009/7301717599.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Прайм, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Прайм» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1247233793</offer_id><model>Прайм</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1247643393" group_id="1248131713">
+        <url>https://in-room.rqch.ru/</url>
+        <price>29308.0</price>
+        <oldprice>41376.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425282</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3545/2282163673/%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Скайлайн, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Скайлайн» 120×200 с ровным настилом из ДСП. Велюровая обивка, массив сосны, без подъемного механизма и ящика. Выбор цвета. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1247643393</offer_id><model>Скайлайн</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1309035905" group_id="1280446977">
+        <url>https://in-room.rqch.ru/</url>
+        <price>32708.0</price>
+        <oldprice>51960.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>32290433</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/7041/1868544897/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2945/1868499841/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Абстракт Элит, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Мягкая кровать «Абстракт Элит» 120×200 с подъёмным механизмом и ящиком для хранения. Велюровая обивка, ортопедическое основание, массив сосны. Выбор цвета и комплектации. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1309035905</offer_id><model>Абстракт Элит</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1468275201" group_id="1359121153">
+        <url>https://in-room.rqch.ru/</url>
+        <price>31008.0</price>
+        <oldprice>71960.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>42071937</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6657/2101762561/grey.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Медиум, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Медиум» 120×200 с подъёмным механизмом и ящиком для хранения. Велюровая обивка, ортопедическое основание, массив сосны. Выбор цвета и количества ящиков. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1468275201</offer_id><model>Медиум</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1469236353" group_id="1359782273">
+        <url>https://in-room.rqch.ru/</url>
+        <price>19108.0</price>
+        <oldprice>26976.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31425367</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1409/2282071425/%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с настилом Бокс, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Дизайнерская кровать-бокс InRoom Бокс 120×200 без изголовья, подъёмного механизма и ящика. Ровный настил из ДСП, массив сосны, велюр. Нагрузка до 120 кг, гарантия 12 мес.</description>
+        <count>100</count>
+
+      <offer_id>1469236353</offer_id><model>Бокс</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="1562738433" group_id="1419164673">
+        <url>https://in-room.rqch.ru/</url>
+        <price>36958.0</price>
+        <oldprice>67960.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31119835</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2631/2148207175/8.001.png</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2642/2148207186/%D1%81%D0%B8%D0%BD%D0%B8%D0%B9_%D1%82.%D1%81%D0%B5%D1%80%D1%8B%D0%B9.png</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кровать с закругленным изголовьем «Эллипс», 140×200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Мягкая кровать «Эллипс» 140×200 с закруглённым изголовьем и подъёмным механизмом. Выбор высоты изголовья (85 или 100 см), количества ящиков и наличие ножек. Ортопедическое основание, велюровая обивка, массив сосны. Доставка по России.</description>
+        <count>100</count>
+
+      <offer_id>1562738433</offer_id><model>Эллипс</model><color>синий+тёмно-серый</color><width>140</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2339020985" group_id="1922551169">
+        <url>https://in-room.rqch.ru/</url>
+        <price>32708.0</price>
+        <oldprice>69960.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>57472993</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/105/3310796905/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B8%CC%86.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Флюид, 160х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Дизайнерская кровать InRoom Флюид 160×200 с волнообразным изголовьем и подъёмным механизмом. Ящик 150 л, массив сосны, велюр, нагрузка до 120 кг. Гарантия 12 мес.</description>
+        <count>100</count>
+
+      <offer_id>2339020985</offer_id><model>Флюид</model><color>темно-серый</color><width>160</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       </offers><collections /></shop></yml_catalog>
