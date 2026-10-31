@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-30T08:29:06+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="57472993" parentId="31026311">Флюид</category><category id="31425258" parentId="31283128">Эллипс</category><category id="31425260" parentId="31283128">Дельта</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31425270" parentId="31283128">Оптима</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31119840" parentId="31026311">Лайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425327" parentId="31283128">Прайм</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31425349" parentId="31283128">Мидл</category><category id="31119844" parentId="31026311">Мидл</category><category id="42072193" parentId="31283128">Медиум</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="42071937" parentId="31026311">Медиум</category><category id="31425367" parentId="31283128">Бокс</category><category id="31119846" parentId="31026311">Изи</category><category id="31119847" parentId="31026311">Бокс</category></categories><offers>
+<yml_catalog date="2026-10-31T08:15:39+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="57472993" parentId="31026311">Флюид</category><category id="31425258" parentId="31283128">Эллипс</category><category id="31425260" parentId="31283128">Дельта</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31119836" parentId="31026311">Дельта</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31425270" parentId="31283128">Оптима</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="31119838" parentId="31026311">Оптима</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31119840" parentId="31026311">Лайн</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425327" parentId="31283128">Прайм</category><category id="31119842" parentId="31026311">Прайм</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119843" parentId="31026311">Квадро</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31425349" parentId="31283128">Мидл</category><category id="31119844" parentId="31026311">Мидл</category><category id="42072193" parentId="31283128">Медиум</category><category id="31283128">Кровати с настилом</category><category id="31425358" parentId="31283128">Изи</category><category id="42071937" parentId="31026311">Медиум</category><category id="31425367" parentId="31283128">Бокс</category><category id="31119846" parentId="31026311">Изи</category><category id="31119847" parentId="31026311">Бокс</category></categories><offers>
+      <offer available="true" id="820457901" group_id="488280727">
+        <url>https://in-room.rqch.ru/</url>
+        <price>25908.0</price>
+        <oldprice>45980.0</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>31119839</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/233/3394248937/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Оптима Лайт, 120х200</name>
+
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+
+        <description>Кровать «Оптима Лайт» 120×200 с подъемным механизмом и ящиком для хранения. Ортопедическое основание, антивандальный велюр, прочная конструкция. Доставка по РФ, гарантия.</description>
+        <count>100</count>
+
+      <offer_id>820457901</offer_id><model>Оптима Лайт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="1243082369" group_id="1244778497">
         <url>https://in-room.rqch.ru/</url>
         <price>28458.0</price>
@@ -41,26 +61,6 @@
         <count>100</count>
 
       <offer_id>816385328</offer_id><model>Абстракт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Нет</lift><color_group>grey</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="820457901" group_id="488280727">
-        <url>https://in-room.rqch.ru/</url>
-        <price>25908.0</price>
-        <oldprice>45980.0</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>31119839</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6660/996932100/6373432485.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Оптима Лайт, 120х200</name>
-
-        <vendor>InRoom</vendor>
-        <country_of_origin>Россия</country_of_origin>
-        <disabled>false</disabled>
-
-        <description>Кровать «Оптима Лайт» 120×200 с подъемным механизмом и ящиком для хранения. Ортопедическое основание, антивандальный велюр, прочная конструкция. Доставка по РФ, гарантия.</description>
-        <count>100</count>
-
-      <offer_id>820457901</offer_id><model>Оптима Лайт</model><color>темно-серый</color><width>120</width><length>200</length><lift>Да</lift><color_group>grey</color_group><available_value>true</available_value></offer>
       <offer available="true" id="1049351041" group_id="1149055489">
         <url>https://in-room.rqch.ru/</url>
         <price>22933.0</price>
