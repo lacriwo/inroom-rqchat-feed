@@ -1,5 +1,407 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-09T08:54:33+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="31425258" parentId="31283128">Эллипс</category><category id="57472993" parentId="31026311">Флюид</category><category id="31425260" parentId="31283128">Дельта</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119836" parentId="31026311">Дельта</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31425270" parentId="31283128">Оптима</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119838" parentId="31026311">Оптима</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31425327" parentId="31283128">Прайм</category><category id="31119840" parentId="31026311">Лайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119842" parentId="31026311">Прайм</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31425349" parentId="31283128">Мидл</category><category id="31119843" parentId="31026311">Квадро</category><category id="42072193" parentId="31283128">Медиум</category><category id="31119844" parentId="31026311">Мидл</category><category id="31425358" parentId="31283128">Изи</category><category id="31283128">Кровати с настилом</category><category id="31425367" parentId="31283128">Бокс</category><category id="42071937" parentId="31026311">Медиум</category><category id="31119846" parentId="31026311">Изи</category><category id="31119847" parentId="31026311">Бокс</category></categories><offers>
+<yml_catalog date="2026-11-10T09:59:15+03:00"><shop><name>InRoom</name><company>InRoom</company><url>https://in-room.ru</url><platform>inSales</platform><currencies><currency id="RUB" rate="1.0" /></currencies><categories><category id="31425258" parentId="31283128">Эллипс</category><category id="57472993" parentId="31026311">Флюид</category><category id="31425260" parentId="31283128">Дельта</category><category id="31119835" parentId="31026311">Эллипс</category><category id="31425265" parentId="31283128">Абстракт</category><category id="31119836" parentId="31026311">Дельта</category><category id="32290817" parentId="31283128">Абстракт Элит</category><category id="31425270" parentId="31283128">Оптима</category><category id="31119837" parentId="31026311">Абстракт</category><category id="32290433" parentId="31026311">Абстракт Элит</category><category id="31425273" parentId="31283128">Оптима Лайт</category><category id="31425281" parentId="31283128">Лайн</category><category id="31119838" parentId="31026311">Оптима</category><category id="31119839" parentId="31026311">Оптима Лайт</category><category id="31425282" parentId="31283128">Скайлайн</category><category id="31425327" parentId="31283128">Прайм</category><category id="31119840" parentId="31026311">Лайн</category><category id="31119841" parentId="31026311">Скайлайн</category><category id="31425328" parentId="31283128">Квадро</category><category id="31119842" parentId="31026311">Прайм</category><category id="31026311">Кровати с подъемным механизмом</category><category id="31425349" parentId="31283128">Мидл</category><category id="31119843" parentId="31026311">Квадро</category><category id="42072193" parentId="31283128">Медиум</category><category id="31119844" parentId="31026311">Мидл</category><category id="31425358" parentId="31283128">Изи</category><category id="31283128">Кровати с настилом</category><category id="31425367" parentId="31283128">Бокс</category><category id="42071937" parentId="31026311">Медиум</category><category id="31119846" parentId="31026311">Изи</category><category id="31119847" parentId="31026311">Бокс</category></categories><offers>
+      <offer available="true" id="2379333921" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1105/3405554769/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1113/3405554777/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1121/3405554785/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1129/3405554793/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1137/3405554801/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333921</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width>160</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379333929" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1145/3405554809/IMG_20261030_120433.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1153/3405554817/IMG_20261030_121355.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1161/3405554825/IMG_20261030_121506.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1169/3405554833/IMG_20261030_121533.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1177/3405554841/IMG_20261030_121630.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1185/3405554849/IMG_20261030_121949.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333929</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width>160</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379333937" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1193/3405554857/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1201/3405554865/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1209/3405554873/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1217/3405554881/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1225/3405554889/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333937</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width>160</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379333945" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1233/3405554897/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1241/3405554905/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1249/3405554913/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1257/3405554921/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1265/3405554929/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333945</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width>160</width><length>190</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379333953" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1065/3405554729/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1073/3405554737/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1081/3405554745/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1089/3405554753/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1097/3405554761/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333953</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width>160</width><length>190</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379333969" group_id="1949289537">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1273/3405554937/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1281/3405554945/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1289/3405554953/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1297/3405554961/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1305/3405554969/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379333969</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width>160</width><length>190</length><lift /><color_group>other</color_group><available_value>true</available_value></offer>
+
+      <offer available="true" id="2379326209" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3825/3405516529/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3833/3405516537/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3841/3405516545/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3849/3405516553/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3857/3405516561/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326209</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width>180</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379326217" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3865/3405516569/IMG_20261030_120433.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3873/3405516577/IMG_20261030_121355.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3889/3405516593/IMG_20261030_121506.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3897/3405516601/IMG_20261030_121533.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3905/3405516609/IMG_20261030_121630.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3913/3405516617/IMG_20261030_121949.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326217</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width>180</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379326225" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3921/3405516625/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3929/3405516633/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3937/3405516641/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3945/3405516649/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3953/3405516657/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326225</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width>180</width><length>190</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379326233" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3961/3405516665/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3969/3405516673/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3985/3405516689/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3993/3405516697/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4001/3405516705/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326233</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width>180</width><length>190</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379326241" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3777/3405516481/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3785/3405516489/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3793/3405516497/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3809/3405516513/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3817/3405516521/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326241</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width>180</width><length>190</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379326249" group_id="1949285065">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3737/3405516441/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3745/3405516449/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3753/3405516457/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3761/3405516465/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3769/3405516473/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379326249</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width>180</width><length>190</length><lift /><color_group>other</color_group><available_value>true</available_value></offer>
+
+      <offer available="true" id="2379263745" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/185/3405316281/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/209/3405316305/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/225/3405316321/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/241/3405316337/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/313/3405316409/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379263745</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width>160</width><length>200</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379263737" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1425/3405317521/IMG_20261030_120433.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1433/3405317529/IMG_20261030_121355.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1449/3405317545/IMG_20261030_121506.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1705/3405317801/IMG_20261030_121533.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1713/3405317809/IMG_20261030_121630.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/1721/3405317817/IMG_20261030_121949.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379263737</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width>160</width><length>200</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379263769" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2969/3405319065/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2985/3405319081/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2993/3405319089/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3001/3405319097/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/3033/3405319129/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379263769</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width>160</width><length>200</length><lift /><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379263721" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4057/3405320153/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4065/3405320161/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4073/3405320169/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4097/3405320193/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/4105/3405320201/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379263721</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width>160</width><length>200</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379219857" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2321/3405080849/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2329/3405080857/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2337/3405080865/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2345/3405080873/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/2353/3405080881/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379219857</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width>160</width><length>200</length><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379263753" group_id="1949207369">
+        <url>https://in-room.rqch.ru/</url>
+        <price>60600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/5145/3405321241/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/5153/3405321249/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/5169/3405321265/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/5185/3405321281/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/5201/3405321297/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
+        
+        <vendor>InRoom</vendor>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379263753</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width>160</width><length>200</length><lift /><color_group>other</color_group><available_value>true</available_value></offer>
+
       <offer available="true" id="1469253633" group_id="1359785857">
         <url>https://in-room.rqch.ru/</url>
         <price>22808.0</price>
@@ -1827,140 +2229,6 @@
         
       <offer_id>1469271937</offer_id><model>Бокс</model><color>терракотовый</color><width>180</width><length>180</length><lift>Нет</lift><color_group>pink</color_group><available_value>true</available_value></offer>
 
-      <offer available="true" id="2379263745" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/185/3405316281/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/209/3405316305/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/225/3405316321/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/241/3405316337/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/313/3405316409/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379263745</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379263737" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1425/3405317521/IMG_20261030_120433.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1433/3405317529/IMG_20261030_121355.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1449/3405317545/IMG_20261030_121506.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1705/3405317801/IMG_20261030_121533.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1713/3405317809/IMG_20261030_121630.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1721/3405317817/IMG_20261030_121949.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379263737</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379263769" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2969/3405319065/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2985/3405319081/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2993/3405319089/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3001/3405319097/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3033/3405319129/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379263769</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379263721" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4057/3405320153/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4065/3405320161/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4073/3405320169/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4097/3405320193/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4105/3405320201/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379263721</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379219857" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2321/3405080849/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2329/3405080857/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2337/3405080865/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2345/3405080873/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/2353/3405080881/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379219857</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379263753" group_id="1949207369">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/5145/3405321241/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/5153/3405321249/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/5169/3405321265/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/5185/3405321281/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/5201/3405321297/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379263753</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width /><length /><lift /><color_group>other</color_group><available_value>true</available_value></offer>
-
       <offer available="true" id="1243080961" group_id="1244778497">
         <url>https://in-room.rqch.ru/</url>
         <price>28458.0</price>
@@ -3566,6 +3834,146 @@
         <count>100</count>
         
       <offer_id>1244456705</offer_id><model>Мидл</model><color>терракотовый</color><width>140</width><length>185</length><lift>Нет</lift><color_group>pink</color_group><available_value>true</available_value></offer>
+
+      <offer available="true" id="2379269713" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6609/3405330897/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6625/3405330913/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6633/3405330921/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6641/3405330929/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6649/3405330937/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269713</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width>180</width><length>200</length><lift>Да</lift><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379269729" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6657/3405330945/IMG_20261030_120433.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6665/3405330953/IMG_20261030_121355.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6681/3405330969/IMG_20261030_121506.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6689/3405330977/IMG_20261030_121533.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6697/3405330985/IMG_20261030_121630.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6705/3405330993/IMG_20261030_121949.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269729</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width>180</width><length>200</length><lift>Да</lift><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379269737" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6713/3405331001/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6721/3405331009/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6729/3405331017/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6737/3405331025/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6745/3405331033/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269737</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width>180</width><length>200</length><lift>Да</lift><color_group>light</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379269745" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6753/3405331041/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6761/3405331049/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6769/3405331057/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6777/3405331065/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6785/3405331073/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269745</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width>180</width><length>200</length><lift>Да</lift><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379269753" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6569/3405330857/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6577/3405330865/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6585/3405330873/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6593/3405330881/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6601/3405330889/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269753</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width>180</width><length>200</length><lift>Да</lift><color_group>pink</color_group><available_value>true</available_value></offer>
+      <offer available="true" id="2379269761" group_id="1949242305">
+        <url>https://in-room.rqch.ru/</url>
+        <price>63600.0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31026311</categoryId>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6793/3405331081/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6801/3405331089/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6809/3405331097/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6817/3405331105/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
+        <picture>https://cdn.insales-shop.ru/images/products/1/6825/3405331113/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
+        
+        <vendor>InRoom</vendor>
+        <country_of_origin>Россия</country_of_origin>
+        <disabled>false</disabled>
+        
+        <description />
+        <count>100</count>
+        
+      <offer_id>2379269761</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width>180</width><length>200</length><lift>Да</lift><color_group>other</color_group><available_value>true</available_value></offer>
 
       <offer available="true" id="1508267265" group_id="1087948033">
         <url>https://in-room.rqch.ru/</url>
@@ -71995,408 +72403,6 @@
         <count>100</count>
         
       <offer_id>1565243521</offer_id><model>Эллипс</model><color>пыльная роза+светло-серый</color><width>180</width><length>180</length><lift>Нет</lift><color_group>light</color_group><available_value>true</available_value></offer>
-
-      <offer available="true" id="2379326209" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3825/3405516529/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3833/3405516537/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3841/3405516545/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3849/3405516553/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3857/3405516561/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326209</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379326217" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3865/3405516569/IMG_20261030_120433.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3873/3405516577/IMG_20261030_121355.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3889/3405516593/IMG_20261030_121506.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3897/3405516601/IMG_20261030_121533.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3905/3405516609/IMG_20261030_121630.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3913/3405516617/IMG_20261030_121949.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326217</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379326225" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3921/3405516625/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3929/3405516633/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3937/3405516641/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3945/3405516649/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3953/3405516657/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326225</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379326233" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3961/3405516665/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3969/3405516673/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3985/3405516689/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3993/3405516697/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/4001/3405516705/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326233</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379326241" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3777/3405516481/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3785/3405516489/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3793/3405516497/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3809/3405516513/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3817/3405516521/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326241</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379326249" group_id="1949285065">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3737/3405516441/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3745/3405516449/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3753/3405516457/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3761/3405516465/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/3769/3405516473/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379326249</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width /><length /><lift /><color_group>other</color_group><available_value>true</available_value></offer>
-
-      <offer available="true" id="2379269713" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6609/3405330897/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6625/3405330913/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6633/3405330921/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6641/3405330929/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6649/3405330937/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269713</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379269729" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6657/3405330945/IMG_20261030_120433.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6665/3405330953/IMG_20261030_121355.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6681/3405330969/IMG_20261030_121506.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6689/3405330977/IMG_20261030_121533.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6697/3405330985/IMG_20261030_121630.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6705/3405330993/IMG_20261030_121949.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269729</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379269737" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6713/3405331001/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6721/3405331009/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6729/3405331017/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6737/3405331025/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6745/3405331033/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269737</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379269745" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6753/3405331041/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6761/3405331049/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6769/3405331057/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6777/3405331065/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6785/3405331073/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269745</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379269753" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6569/3405330857/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6577/3405330865/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6585/3405330873/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6593/3405330881/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6601/3405330889/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269753</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379269761" group_id="1949242305">
-        <url>https://in-room.rqch.ru/</url>
-        <price>63600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6793/3405331081/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6801/3405331089/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6809/3405331097/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6817/3405331105/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/6825/3405331113/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 180х200</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379269761</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width /><length /><lift /><color_group>other</color_group><available_value>true</available_value></offer>
-
-      <offer available="true" id="2379333921" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1105/3405554769/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1113/3405554777/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1121/3405554785/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1129/3405554793/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1137/3405554801/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE_%D1%81%D0%B5%D1%80%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333921</offer_id><model>Кровати с подъемным механизмом</model><color>светло-серый</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379333929" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1145/3405554809/IMG_20261030_120433.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1153/3405554817/IMG_20261030_121355.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1161/3405554825/IMG_20261030_121506.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1169/3405554833/IMG_20261030_121533.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1177/3405554841/IMG_20261030_121630.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1185/3405554849/IMG_20261030_121949.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333929</offer_id><model>Кровати с подъемным механизмом</model><color>слоновая кость</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379333937" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1193/3405554857/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1201/3405554865/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1209/3405554873/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1217/3405554881/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1225/3405554889/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333937</offer_id><model>Кровати с подъемным механизмом</model><color>молочный</color><width /><length /><lift /><color_group>light</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379333945" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1233/3405554897/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1241/3405554905/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1249/3405554913/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1257/3405554921/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1265/3405554929/%D1%82%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333945</offer_id><model>Кровати с подъемным механизмом</model><color>терракотовый</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379333953" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1065/3405554729/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_1.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1073/3405554737/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1081/3405554745/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1089/3405554753/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1097/3405554761/%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333953</offer_id><model>Кровати с подъемным механизмом</model><color>винный</color><width /><length /><lift /><color_group>pink</color_group><available_value>true</available_value></offer>
-      <offer available="true" id="2379333969" group_id="1949289537">
-        <url>https://in-room.rqch.ru/</url>
-        <price>60600.0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>31026311</categoryId>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1273/3405554937/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_1__1_.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1281/3405554945/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_2.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1289/3405554953/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_3.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1297/3405554961/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_4.jpg</picture>
-        <picture>https://cdn.insales-shop.ru/images/products/1/1305/3405554969/%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_5.jpg</picture>
-        <store>false</store>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Двуспальная кровать с подъемным механизмом Крона, 160х190</name>
-        
-        <vendor>InRoom</vendor>
-        <disabled>false</disabled>
-        
-        <description />
-        <count>100</count>
-        
-      <offer_id>2379333969</offer_id><model>Кровати с подъемным механизмом</model><color>оливковый</color><width /><length /><lift /><color_group>other</color_group><available_value>true</available_value></offer>
 
       <offer available="true" id="1247239041" group_id="1247863169">
         <url>https://in-room.rqch.ru/</url>
