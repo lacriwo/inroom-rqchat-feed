@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/update_performance_feed.py
+      - .github/workflows/update-feed.yml
 
 permissions:
   contents: write
@@ -43,11 +49,19 @@ jobs:
           MAX_RETRIES: "3"
         run: python scripts/update_gray_feed.py
 
+      - name: Generate performance XML feed
+        env:
+          SOURCE_FEED_URL: https://in-room.ru/marketplace/4675585.xml
+          PERFORMANCE_OUTPUT_FILE: docs/inroom-performance.xml
+          REQUEST_TIMEOUT: "120"
+          MAX_RETRIES: "3"
+        run: python scripts/update_performance_feed.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/inroom-rqchat.xml docs/inroom-gray.xml
+          git add docs/inroom-rqchat.xml docs/inroom-gray.xml docs/inroom-performance.xml
           if git diff --staged --quiet; then
             echo "No changes"
           else
